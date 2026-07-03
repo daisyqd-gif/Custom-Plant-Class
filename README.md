@@ -30,7 +30,7 @@ It is built on top of:
 5. Done!
 ## Creating a mod
 
-## Prerequisites:
+### Prerequisites:
 - Medium to advanced understanding in the C# coding language
 - Medium understanding in making AssetBundles in Unity
 - A 64 bit computer running Windows 10 or later
