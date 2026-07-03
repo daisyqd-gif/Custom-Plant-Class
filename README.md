@@ -36,6 +36,7 @@ It is built on top of:
 - A 64 bit computer running Windows 10 or later
 - Basic drawing and animating capibilities in Unity
 
+### Guide:
 1. Create your modding folder.
 2. Install tools like dnspy(https://github.com/dnSpy/dnSpy/releases/tag/v6.1.8), Il2CppDumper(https://github.com/Perfare/Il2CppDumper/releases), Tuanjie editor 2022.3, Microsoft Visual Studio Code(https://apps.microsoft.com/detail/xp9khm4bk9fz7q), and idealy a dissasembler.
 3. Put your tools into the buid folder in their own folders.
