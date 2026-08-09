@@ -1,4 +1,4 @@
-# PVZ Fusion Data Manager Framework
+# PVZ Fusion Custom Plant Class Framework
 A modular, extensible gameplay framework for Plants vs. Zombies Fusion that allows modders to create custom plants, zombies, effects, projectiles, and gameplay systems using clean C# APIs.
 ## Overview
 This framework provides a unified API for extending PVZ Fusion without modifying the game’s internal code. It is designed for modders who want to build:
