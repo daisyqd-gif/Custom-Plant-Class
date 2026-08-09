@@ -24,7 +24,7 @@ It is built on top of:
 6. Custom structs and data types for easier data storage
 ## Installation
 1. Install this custom fork of BepInEx 6.0.0 and CustomizeLib from https://pan.quark.cn/s/6461fdaccff5#/list/share -> 融合版/融合Mod/鲑鱼MOD整理/BepinEX版本/BepInEx前置框架 and download all files in the folder and place them into the game's directory (where PlantsVsZombiesRH.exe is located)
-2. Locate the release for PVZ Fusion Data Manager Framework in the releases tab in this repo and download it into: gamedirectory/BepInEx/plugins
+2. Locate the release for PVZ Fusion Custom Plant Class Framework in the releases tab in this repo and download it into: gamedirectory/BepInEx/plugins
 3. Run the game. You should see a black window open up and its name should be: BepInEx 6.0.0 dev - PlantsVsZombiesRH.exe). When the game is fully booted up and it is in the main menu, wait 5 seconds and close the game.
 4. You should see a folder called interop in the BepInEx folder
 5. Done!
