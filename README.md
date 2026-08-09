@@ -10,7 +10,7 @@ This framework provides a unified API for extending PVZ Fusion without modifying
 - new levels
 - etc...
   
-All through a stable, documented C# interface.
+All through a stable C# interface.
 It is built on top of:
 - CustomizeLib (Apache‑2.0)
 - BepInEx (LGPL‑2.1)
