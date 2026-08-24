@@ -1,5 +1,0 @@
-#nullable enable
-
-namespace CustomPlantClass
-{
-}
