@@ -231,22 +231,3 @@ namespace FreezeGatlingPea
 1. Install the newest game version and repeat step 1, 2, 3, and 4  in the installation guide.
 2. Repeat steps 5, 7, 8, 9 in the creating a mod guide.
 3. Reopen all of your mods and rebuild all of them and fix all errors that resulted from the update.
-## Contributing
-### Contributions are welcome — especially from developers familiar with:
-- Unity
-- C#
-- IL2CPP
-- BepInEx
-- PVZRH internals
-### How to contribute
-1. Fork the repo
-2. Create a feature branch
-3. Submit a pull request
-4. Follow the coding style in the framework
-5. Include test cases if possible
-### Good first issues
-- Add new effect types
-- Improve usage validation
-- Add plant/zombie registration helpers
-- Expand documentation
-- Add sample mods
